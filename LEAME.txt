@@ -1,0 +1,10 @@
+ROLDAN SEGUROS INS - SITIO WEB
+
+Para ver la página:
+1. Descomprima el ZIP.
+2. Abra la carpeta Roldan_Seguros_INS_Web.
+3. Haga doble clic en index.html.
+
+Para subir a GitHub Pages:
+- Suba index.html, la carpeta css y la carpeta js.
+- No borre css ni js, porque contienen el diseño y las animaciones.
